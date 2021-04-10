@@ -1,0 +1,8 @@
+.info {
+  max-width: 600px;
+  min-height: 350px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 0 25px 0 25px;
+}
