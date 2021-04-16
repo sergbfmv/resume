@@ -3,6 +3,7 @@
   max-width: 900px;
   min-height: 50px;
   margin: 0 auto;
+  margin-top: -50px;
   display: flex;
   justify-content: flex-start;
   align-items: center;

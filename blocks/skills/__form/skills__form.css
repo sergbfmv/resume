@@ -1,9 +1,9 @@
-.footer__copyright {
+.skills__form {
   list-style: none;
+  padding: 0;
   font-style: normal;
-  color:#ffffff;
+  color: white;
   line-height: 20px;
   font-size: 16px;
-  font-weight: 700;
-  margin: 0 0 20px 25px;
+  font-weight: 400;
 }

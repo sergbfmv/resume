@@ -1,0 +1,18 @@
+.skills__tel {
+  text-decoration: none;
+  padding: 0;
+  font-style: normal;
+  color: white;
+  line-height: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  transition: color 0.2s linear;
+}
+
+.skills__tel:hover {
+  color: #799cad;
+}
+
+.skills__tel:visited {
+  color: #2b8cb6
+}

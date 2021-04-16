@@ -1,6 +1,8 @@
 const popupAvatar = document.querySelector('.popup_type_avatar')
+const popupForm = document.querySelector('.popup_type_form')
 const closeButtonAvatar = document.querySelector('.popup__close-button_type_avatar')
 const avatar = document.querySelector('.avatar')
+const form = document.querySelector('.skills__link')
 const popups = document.querySelectorAll('.popup')
 
 function closeByEsc(evt) {
@@ -31,4 +33,8 @@ popups.forEach((popup) => {
 
 avatar.addEventListener('click', function() {
   openPopup(popupAvatar)
+})
+
+form.addEventListener('click', function() {
+  openPopup(popupForm)
 })
